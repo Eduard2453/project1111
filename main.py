@@ -1,2 +1,4 @@
-print("Hello, World!")
+print("Hello World")
 print("Сегодня хороший день!")
+
+# 'TODO: Добавить проверку на пустой ввод'
